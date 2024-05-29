@@ -1,5 +1,6 @@
 # What is it?
-You can get some help in case of emergency
+This is a guide for maximising your chances of survival in case of **natural disaster**.  
+But really, I highly recomand checking other sources in case you really end up in a natural disaster situation.  
 # Why?
 Because why not. Some people might actually find this helpful.
 # Want to contribute?
