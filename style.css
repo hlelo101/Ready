@@ -6,6 +6,11 @@ body {
 a {
     color: white;
 }
+img {
+    border-radius: 10px;
+    width: 200px;
+    height: auto;
+}
 #creator {
     position: absolute;
     display: flex;
