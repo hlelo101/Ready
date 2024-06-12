@@ -33,3 +33,10 @@ img {
     background-color: rgba(0, 0, 0, 0.788);
     backdrop-filter: blur(4px);
 }
+#suppliesBox {
+    display: flex;
+    align-items: center;
+}
+#medKitbox {
+    margin-left: 30px;
+}
